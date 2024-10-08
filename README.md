@@ -12,7 +12,7 @@ As a starting point, we use the formatted datasets made available from https://g
 
 See [preprocessing/](preprocessing/) for the scripts used to preprocess these datasets.
 
-The resulting formatted data is available is available as jsonlines upon request (due to licensing requirements). The permissive license subset of the data is publicly available at [coref-data/pcr_public_datasets](https://huggingface.co/datasets/coref-data/pcr_public_datasets/).
+The resulting formatted data is available as jsonlines upon request (due to licensing requirements). The permissive license subset of the data is publicly available at [coref-data/pcr_public_datasets](https://huggingface.co/datasets/coref-data/pcr_public_datasets/).
 
 ## Model Predictions
 
