@@ -32,6 +32,16 @@ Baseline inference code (dcoref and Maverick) is available at [baselines/](basel
 
 ## Reference
 
+Paper: https://arxiv.org/abs/2410.09448
+
 ```bibtex
-TODO
+@misc{porada2024solvingchallengesetsolving,
+      title={Solving the Challenge Set without Solving the Task: On Winograd Schemas as a Test of Pronominal Coreference Resolution}, 
+      author={Ian Porada and Jackie Chi Kit Cheung},
+      year={2024},
+      eprint={2410.09448},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.09448}, 
+}
 ```
